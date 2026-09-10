@@ -127,7 +127,7 @@ No `.env` setup needed — the working config is already included above.
 
 ## Security Note
 
-The `.env` values above (including `JWT_SECRET`) are development-only credentials meant to make local evaluation easy. If this repo is public, treat that secret as already exposed — don't reuse it for anything beyond this demo, and rotate it before any real deployment.
+The `.env` values above (including `JWT_SECRET`) are development-only credentials meant to make local evaluation easy. If this repository is public, treat that secret as already exposed — don't reuse it for anything beyond this demo, and rotate it before any real deployment.
 
 ## Developer
 
