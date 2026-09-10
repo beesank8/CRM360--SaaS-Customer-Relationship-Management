@@ -2,7 +2,7 @@
 
 CRM360 is a full-stack Customer Relationship Management system built with the MERN stack (MongoDB, Express, React, Node.js).
 
-**Repo:** https://github.com/beesank8/CRM360--SaaS-Customer-Relationship-Management
+**Repository:** https://github.com/beesank8/CRM360--SaaS-Customer-Relationship-Management
 
 ## Features
 
